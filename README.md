@@ -1,2 +1,2 @@
 # cibersecurity-desafio-ransomware-DIO
-criação de um ransware
+criação de um ransomware
